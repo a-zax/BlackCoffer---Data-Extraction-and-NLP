@@ -1,0 +1,15 @@
+beautifulsoup4==4.10.0
+nltk==3.6.5
+pandas==1.4.0
+requests==2.26.0
+textblob==0.15.3
+
+# NLTK Resources
+# Uncomment the lines below to download NLTK resources during installation
+# nltk==3.6.5
+# nltk.downloader
+#   maxent_ne_chunker
+#   punkt
+#   stopwords
+#   wordnet
+#   averaged_perceptron_tagger
