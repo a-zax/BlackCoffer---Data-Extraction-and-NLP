@@ -21,8 +21,8 @@ Requires Python 3.x with libraries such as requests, BeautifulSoup, pandas, nltk
 Ensures all necessary NLTK resources (tokenizers, stopwords) are downloaded during script execution.
 
 #### 5.Instructions
- a)The file data_extraction.py & script (text_analysis.py) is designed to be run locally.
- b)Before execution, ensure dependencies are installed (pip install -r requirements.txt).
- c)Input data is provided in Input.xlsx, which contains URLs and corresponding URL_IDs.
- d)Output is generated automatically as Output Data Structure.xlsx.
- e) Detailed instructions on how to run the script and any setup requirements are provided in the README file.
+##### a)The file data_extraction.py & script (text_analysis.py) is designed to be run locally.
+##### b)Before execution, ensure dependencies are installed (pip install -r requirements.txt).
+##### c)Input data is provided in Input.xlsx, which contains URLs and corresponding URL_IDs.
+##### d)Output is generated automatically as Output Data Structure.xlsx.
+##### e) Detailed instructions on how to run the script and any setup requirements are provided in the README file.
